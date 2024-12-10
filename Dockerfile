@@ -1,4 +1,4 @@
-FROM openjdk:openjdk:21-oracle
+FROM openjdk:21-oracle
 
 EXPOSE 8080
 
